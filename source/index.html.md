@@ -62,6 +62,7 @@ Please notice before you get started:
 | Acala Mandala       | `acala-testnet.api.subscan.io`       |             |
 | Alephzero           | `alephzero.api.subscan.io`           |             |
 | Astar               | `astar.api.subscan.io`               |             |
+| Basilisk            | `basilisk.api.subscan.io`            |             |
 | Bifrost Asgard      | `bifrost.api.subscan.io`             |             |
 | Calamari            | `calamari.api.subscan.io`            |             |
 | Centrifuge          | `centrifuge.api.subscan.io`          |             |
@@ -80,6 +81,7 @@ Please notice before you get started:
 | Edgeware            | `edgeware.api.subscan.io`            |             |
 | Equilibrium         | `equilibrium.api.subscan.io`         |             |
 | Gateway             | `gateway-testnet.api.subscan.io`     |             |
+| HydraDX             | `hydradx.api.subscan.io`             |             |
 | IntegriTEE          | `integritee.api.subscan.io`          |             |
 | Karura              | `karura.api.subscan.io`              |             |
 | Kulupu              | `kulupu.api.subscan.io`              |             |
